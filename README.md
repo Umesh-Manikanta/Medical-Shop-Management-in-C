@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-Welcome to the **Friends Pharmacy Management System**! This C program is designed to streamline pharmacy operations, featuring user authentication, stock management, and billing functionalities. 
+Welcome to the **Friends Pharmacy Management System**! This C program is designed to streamline pharmacy operations, featuring user authentication, stock management, and billing functionalities. This group project of 3 members which was submitted in my 1st semester "Computer Programming" in C course.
 
 ## 🚀 Features
 

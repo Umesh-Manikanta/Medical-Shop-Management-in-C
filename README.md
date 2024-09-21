@@ -27,14 +27,13 @@ Welcome to the **Friends Pharmacy Management System**! This C program is designe
   - User login with username and password validation.
   - Option to retry or exit on failure.
 
-![Login Function](https://via.placeholder.com/600x300?text=Login+Function)
+
 
 ### `stock_checking()`
 - **Purpose**: View the current stock of medicines.
 - **Features**:
   - Display available quantities or indicate if a medicine is not found.
   
-![Stock Checking](https://via.placeholder.com/600x300?text=Stock+Checking)
 
 ### `adding()`
 - **Purpose**: Add new stock quantities.
@@ -42,7 +41,6 @@ Welcome to the **Friends Pharmacy Management System**! This C program is designe
   - Update the inventory with new quantities.
   - Reflect changes in the CSV file.
 
-![Add Stock](https://via.placeholder.com/600x300?text=Add+Stock)
 
 ### `billing()`
 - **Purpose**: Generate a billing statement for prescriptions.
@@ -50,7 +48,7 @@ Welcome to the **Friends Pharmacy Management System**! This C program is designe
   - Calculate total amount based on the prescription.
   - Print and display the bill.
 
-![Billing Function](https://via.placeholder.com/600x300?text=Billing+Function)
+<!--![Billing Function](https://via.placeholder.com/600x300?text=Billing+Function)-->
 
 ## 🛠 How to Compile and Run
 

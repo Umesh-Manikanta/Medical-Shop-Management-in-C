@@ -57,4 +57,4 @@ Welcome to the **Friends Pharmacy Management System**! This C program is designe
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/pharmacy-management-system.git
+   git clone https://github.com/Umesh-Manikanta/Medical-Shop-Management-in-C.git

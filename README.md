@@ -50,6 +50,7 @@ Welcome to the **Friends Pharmacy Management System**! This C program is designe
 
 <!--![Billing Function](https://via.placeholder.com/600x300?text=Billing+Function)-->
 
+### This is Group Project Made By Me, Nikhil Krishna, Pradeep 
 ## 🛠 How to Compile and Run
 
 1. **Clone the Repository**
